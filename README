@@ -1,0 +1,9 @@
+INSTRUCCIONES
+
+1- copiar canciones en formato mp3 en la carpeta canciones (10 canciones por lo menospara que se vea el scrollbar)
+2- ejecutar el script Reproductor.py
+3- seleccionar la canción que se desea escuchar
+4- oprimir boton play >
+5- si se quiere retroceder, oprimir boton << (BONO)
+6- para pausar la canción que está sonando, oprimir botón II
+7- para parar la canción que está sonando, oprimir el botón ■
